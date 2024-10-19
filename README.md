@@ -1,98 +1,74 @@
-<h1 align="center">👋 Hello World!, I'm Alfaiz</h1>
-<h3 align="center"> ⚛ React.js | &lt;/&gt; Node.js | 🐍 Python | 🐧 Linux Enthusiast | 🌍 Open-Source Contributor</h3>
-<h3 align="center"> 🌟 Writing Bugs since 2019! 🚀 | ✨ I'm One of the <a href="https://committers.top/india"> top 50 contributors</a> from India 🇮🇳</h3>  
- 
-```js
-const Bio = () => { 
-    const Username = "Alfaiz"
-    const Stack = ['M','E','R','N']
-    const Addons = {
-        isNerd: false,
-        drinkCoffee: "recursively"
-    }
-}
-``` 
-<p align='center'> 
-    <a href="https://linkedin.com/in/alfaizchadiyata/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alfaiz" width="120" height="30"/> </a>
-    <a href="mailto:me.imalfaiz007@gmail.com?subject=Hello%20again" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="100" height="30"/> </a>
-    <a href="https://twitter.com" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="alfaiz" height="30" width="120" /></a>
-    <a href="https://www.instagram.com/01faizz/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="alfaiz"__ height="30" width="120" /></a>
-    
-    
+
+ <p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Certificated+Senior+Full+Stack+Engineer;Senior+Full+Stack+Developer;Especially+Backend+Development" alt="gerald525" /></a>
 </p>
 
-<details open> 
-    
-<div align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-vs&theme=tokyonight_duo" width="58%" height=260/>
-    <img align="right" src="https://github-profile-trophy.vercel.app/?username=akshay-vs&theme=nord&column=3&margin-w=5.11&margin-h=6&title=Followers,Stars,MultiLanguage,Commit,Experience,PullRequest&noframe=true" alt="profile-trophy" width="38%" height=260/>
+<!-- Short Introduction -->
+
+<h1 align = "left">
+  Hi, there. <img src="https://github.com/gerald525/gerald525/blob/main/wave.gif" width="30" />
+
+   ### Thanks for visiting :heart:
+  &emsp;
+  
+</h1>
+<p>I am a senior full-stack engineer who can push the envelope, with a wealth of experience in web and mobile development, as well as DevOps engineering. I am adept at leveraging technologies like Docker and Kubernetes, and I am well-versed in the cloud technology realm, such as AWS, with a deep well of knowledge and substantial experience in my toolkit.</p>
+
+#### Web Development
+
+-   Basic: JavaScript, TypeScript, Python, Java, Golang, C#, C++
+-   Front-End: React.js, Next.js, Redux, Gatsby.js, Angular, Vue.js, Nuxt.js
+-   Back-End: Node.js, Express.js, Nest.js, Python, Django, Flask, Laravel, Java, Spring Boot, .Net
+-   Database: Supabase, Firebase, MySQL, PostgreSQL, Oracle, SQLite, MongoDB
+-   Tools: Jira, Trello, ClickUp
+
+#### Mobile Development
+
+-   React Native/Ionic
+-   Flutter/FlutterFlow
+-   Swift
+-   Kotlin
+-   Bubble.io, 
+
+#### DevOps Engineering
+
+-   Docker, Kubernetes, Ngnix, GitHub, Jenkins
+-   Terraform, CDK, CloudFormation, Pulumi
+-   Amazon Web Services(AWS Lambda, API Gateway, EC2, S3, EKS, ECS, Secret Manager, SNS, SES, Route53, AWS RDS, DynamoDB, etc)
+-   Google Cloud Platform
+-   Microsoft Azure
+
+
+<p>I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!</p>
+<p></p>
+
+<!-- Skills Section -->
+<h2 align="left">🚀Skills🚀</h2>
+
+<div>
+
+#### 🔥Major Programming Languages:
+
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,threejs,py,go,cs" />
+  </div>
+
+#### ⛓️Frameworks and Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,redux,nextjs,vue,nuxtjs,angular" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,django,flask,pytorch,tensorflow,dotnet,figma,flutter,webflow,wordpress" />
+  </div>
+  
+#### 🧵Database & Skills:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,graphql,firebase,redis,postman" />
+  </div>
+
+#### ⚡️Other Essentials:
+
+  <div align="left">      
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,bash,docker,kubernetes,nginx,heroku,netlify,vercel,cloudflare,aws,gcp,azure,ai,bots" />
+  </div>
 </div>
-</details>
-
-<details>
-  <summary><h2 align="left"> Latest Blogs 📚🎧☕</h2></summary>
-
-<!-- BLOG-POST-LIST:START -->
-- [Become a Pro Programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://dev.to/akshayvs/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-2364)
-- [8 Steps to Become a Linux Geek &lpar;A Penguin Guide&rpar;](https://medium.com/codex/8-steps-to-become-a-linux-geek-a-penguin-guide-8a02947b2517?source=rss-e5a58e5baf27------2)
-- [Upscale Your Machine Learning Skills: A Beginner’s Guide to Building High-Accuracy Neural Networks](https://ai.plainenglish.io/upscale-your-machine-learning-skills-a-beginners-guide-to-building-high-accuracy-neural-networks-3edbeaf19228?source=rss-e5a58e5baf27------2)
-- [Become a Pro programmer: 10 Tips and Strategies for Improving Your Coding Skills](https://medium.com/codex/become-a-pro-programmer-10-tips-and-strategies-for-improving-your-coding-skills-75863d589533?source=rss-e5a58e5baf27------2)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-
-<details>
-    <summary><h2 align="left"> Popular Projects ✨🗂️</h2></summary>
-    <a href="https://github.com/404">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-        <pre>
-  <h3 align="center">Passlock</h3>
-    <a href="https://github.com/Akshay-Vs/PassLock"><img align="center" herf="https://github.com/Akshay-Vs/PassLock" src="https://github.com/Akshay-Vs/PassLock/blob/main/.resources/images/Screenshot-1.png" height="100%" width="97%"/></a>
-    <b><br>Passlock is a password manager that encrypt and save passwords securly on your local machine</b>
-    <br>
-    </pre>
-    <a href="https://github.com/404">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-        <pre>
-    <h3 align="center" href="https://github.com/Project-Eco-Track">EcoTrack</h3>
-    <a href="https://ecotrack.vercel.app/"><img align="center" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/545/544/datas/original.png" height="100%" width="97%"> </a>
-    <b><br>EcoTrack is a user-friendly web application empowering individuals to reduce their carbon footprint and embrace <br> sustainable practices.</b>
-    <br>
-    </pre>
-    <a href="https://github.com/404">
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-        <pre>
-    <h3 align="center" href="https://github.com/Akshay-Vs/Web-Project-01">Webpage-01</h3>
-    <a href="https://akshay-vs.github.io/Web-Project-01/"><img align="center" src="https://github.com/Akshay-Vs/resources/blob/main/images/WebSite01.png" height="100%" width="97%"> </a>
-    <b>This is a test website</b>
-    <br>
-    </pre>
-    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-    <pre>
-        <h3 align="center">MVC-Calc</h3>
-        <a href="https://github.com/Akshay-Vs/MVC-Calc"> 
-          <img src="https://github.com/Akshay-Vs/resources/blob/main/images/MVC-Calc.png?raw=true" height="100%" width="97%"/>
-        </a>
-        <b>A Calculator Web-App Made with ASP .Net MVC</b>
-     <br>
- </pre>
-    <a href="https://github.com/Akshay-Vs/Akshay-Vs/blob/main/Projects/Ptojects.md">
-        <h3 align="center">See more →</h3>
-    </a>
-    <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-</details>
-
-<h1 align="center">BTW, I Use Arch 💪</h1>
-<div align="center">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a7717328-6939-46dc-b54f-93eb0fd051d9/d9t8coa-68b88586-cf26-468d-95fa-e388564b879e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E3NzE3MzI4LTY5MzktNDZkYy1iNTRmLTkzZWIwZmQwNTFkOVwvZDl0OGNvYS02OGI4ODU4Ni1jZjI2LTQ2OGQtOTVmYS1lMzg4NTY0Yjg3OWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.D2JeccFU5EYaa8D8yasPABUjxYRG2p63PfU0d0Ay2Qg" height=200 width="30%">
-    <img src="https://media.giphy.com/media/Pq9XWZjaZNDHvgqYIZ/giphy.gif?raw=true" height=200 width="30%">
-    <img src="https://3.bp.blogspot.com/-OV7EzcTdOE0/Wj6kx-JZdmI/AAAAAAAAJws/BE9j1Sv4wFAEV4zTMO-5yXao2U20zUYMACLcBGAs/s1600/fsociety_9.gif?raw=true" height=200 width="30%"> 
-</div>
-<br>
-<img src="https://thumbs.gfycat.com/FreshAltruisticAnemone-size_restricted.gif" height="8" width="100%" align="center">
-
-<img src="https://raw.githubusercontent.com/Akshay-Vs/Akshay-Vs/output/github-contribution-grid-snake-dark.svg" width="100%" align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Akshay-Vs&color=blueviolet&style=plastic"/> </a> </p>
-</p>
